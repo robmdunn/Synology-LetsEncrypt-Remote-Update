@@ -1,10 +1,3 @@
-certifi==2022.12.7
-cffi==1.14.0
-chardet==3.0.4
-cryptography==3.3.2
-idna==2.9
-pycparser==2.20
-pyOpenSSL==19.1.0
-requests==2.24.0
-six==1.15.0
-urllib3==1.26.5
+pyOpenSSL
+requests
+urllib3
